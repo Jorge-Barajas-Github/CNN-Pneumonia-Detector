@@ -72,16 +72,29 @@ Key insight:
 
 ## Repository Structure
 
+```text
+
 CNN-Pneumonia-Detector/
+
 │
+
 ├── data/
+
 │   └── README.md
+
 ├── notebooks/
+
 │   └── Pneumonia Detection.ipynb
+
 ├── src/
+
 │   └── utils.py
+
 ├── requirements.txt
+
 └── .gitignore
+
+```
 
 ## How to Run
 
