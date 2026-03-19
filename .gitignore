@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data and model artifacts
+data/raw/
+data/processed/
+models/*.keras
+models/*.h5
+models/*.ckpt
+reports/figures/*.png
+reports/figures/*.jpg
+reports/figures/*.jpeg
+
+# Logs
+*.log
